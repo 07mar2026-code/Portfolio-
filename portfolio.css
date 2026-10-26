@@ -2,3 +2,5 @@
 
 /* Closing LINE experience entry */
 .closing-experience{display:flex;flex-direction:column;align-items:center;gap:20px;margin-top:36px}.closing-experience h3{font-size:24px;line-height:1.5;letter-spacing:-.03em;margin:0}.experience-qr{display:block;width:246px;max-width:100%;border:1px solid #dce4da;border-radius:16px;overflow:hidden;background:#fff;box-shadow:0 12px 32px #204f3f12}.experience-qr img{display:block;width:100%;height:auto}.experience-hint{font-size:13px;line-height:1.8;color:#75867a;margin:0}@media(max-width:650px){.closing-experience h3{font-size:22px}}
+
+.experience-hint a{text-decoration:underline;text-underline-offset:3px}.experience-help{max-width:440px;color:var(--muted);font-size:13px;line-height:1.8}.experience-help summary{cursor:pointer;text-decoration:underline;text-underline-offset:3px}.experience-help p{margin:12px 0 0}.experience-help summary:focus-visible{outline:3px solid #d7a16b;outline-offset:4px}
